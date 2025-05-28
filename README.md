@@ -10,7 +10,7 @@ A passionate AI and data science enthusiast with a strong background in machine 
 *   ✉️  You can contact me at [m.askary84@yahoo.com](mailto:m.askary84@yahoo.com) , [linkedin](https://www.linkedin.com/in/majidaskary/)
   
 *   🧠  I'm learning Data Science
-*   🤝  I'm open to collaborating on LLM, Gen AI and AI agents
+*   🤝  I'm open to collaborating on ML, LLM, Gen AI and AI agents
 
 *   ### Skills 
 <p align="left">
