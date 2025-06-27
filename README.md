@@ -1,7 +1,6 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Majid Askary
-====================================================================================================================================
 
-Data Scientist & ML Engineer
+
+Data Scientist & AI Engineer
 ----------------------------
 
 A passionate AI and data science enthusiast with a strong background in machine learning, data analysis, and programming. During my studies in AI and Data Science, I've had the opportunity to work on various projects, including predictive modeling, deep learning, and generative AI. I enjoy tackling complex problems, designing algorithms, and building predictive models. My projects typically involve cleaning and analyzing large datasets, feature engineering, and applying the most suitable algorithms to make data-driven decisions.
