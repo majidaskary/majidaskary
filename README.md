@@ -8,7 +8,3 @@ With a Master’s degree in Artificial Intelligence and a recently completed int
   
    
 *     I'm open to collaborating on Data Science, ML, LLM, Gen AI and AI agents
-
-
-                    
-  
