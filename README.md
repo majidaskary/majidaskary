@@ -8,5 +8,4 @@ And now, I’m working on a project involving AI agents, LLMs, machine learning,
   
 *     You can contact me at [m.askary84@yahoo.com](mailto:m.askary84@yahoo.com) , [linkedin](https://www.linkedin.com/in/majidaskary/)
   
-   
 *     I'm open to collaborating on Data Science, ML, LLM, Gen AI and AI agents
