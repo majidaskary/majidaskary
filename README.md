@@ -1,6 +1,5 @@
 AI Engineer
 
-
 -------------------------------------
 
 With a Master’s degree in Artificial Intelligence and a recently completed intensive AI & Data Science program. During my studies in AI and Data Science, I've had the opportunity to work on various projects, including predictive modeling, deep learning, and generative AI. I enjoy tackling complex problems, designing algorithms, and building predictive models. 
