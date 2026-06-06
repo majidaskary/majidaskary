@@ -1,14 +1,14 @@
-AI Engineer
+# AI Engineer | LLMs, AI Agents & Automated Trading Systems
 
-----------------------------------------
+I have a Master’s degree in Artificial Intelligence and a postgraduate background in AI and Data Science.
 
-With a Master’s degree in Artificial Intelligence and a recently completed intensive AI & Data Science program. During my studies in AI and Data Science, I've had the opportunity to work on various projects, including predictive modeling, deep learning, and generative AI. I enjoy tackling complex problems, designing algorithms, and building predictive models. 
-And now, I’m working on a project involving AI agents, LLMs, machine learning, and process workflows.
+My main interests are building AI agents, working with LLMs, designing intelligent workflows, and applying machine learning to real-world systems.
 
----------------
+I am currently working on an automated trading agent project that combines AI agents, LLMs, machine learning, workflow automation, and decision-support logic.
 
-*     I'm based in Belgium
-  
-*     You can contact me at [m.askary84@yahoo.com](mailto:m.askary84@yahoo.com)  ,  [linkedin](https://www.linkedin.com/in/majidaskary/)
-  
-*     I'm open to collaborating on Data Science, ML, LLM, Gen AI and AI agents
+---
+
+- Based in Belgium
+- Contact: [m.askary84@yahoo.com](mailto:m.askary84@yahoo.com)
+- LinkedIn: [linkedin.com/in/majidaskary](https://www.linkedin.com/in/majidaskary/)
+- Open to collaboration on AI Agents, LLMs, Generative AI, Machine Learning, Data Science, and Automation
