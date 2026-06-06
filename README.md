@@ -1,5 +1,3 @@
-# AI Engineer | LLMs, AI Agents & Automated Trading Systems
-
 I have a Master’s degree in Artificial Intelligence and a postgraduate background in AI and Data Science.
 
 My main interests are building AI agents, working with LLMs, designing intelligent workflows, and applying machine learning to real-world systems.
