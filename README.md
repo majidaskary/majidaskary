@@ -10,5 +10,3 @@ I am currently working on an automated trading agent project that combines AI ag
 - Contact: [m.askary84@yahoo.com](mailto:m.askary84@yahoo.com)
 - LinkedIn: [linkedin.com/in/majidaskary](https://www.linkedin.com/in/majidaskary/)
 - Open to collaboration on AI Agents, LLMs, Generative AI, Machine Learning, Data Science, and Automation
-
-
